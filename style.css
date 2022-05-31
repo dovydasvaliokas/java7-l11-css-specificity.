@@ -1,0 +1,29 @@
+.meniu-juosta {
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+
+.reg-mygtukas.meniu-mygtukas {
+    background-color: green;
+}
+
+.meniu-mygtukas {
+    font-size: x-large;
+    padding: 0.5em;
+    background-color: bisque;
+    border: 0px solid black;
+}
+
+div.meniu-juosta > div.meniu-mygtukas > span.mygtuko-paaiskinimas {
+    background-color: green;
+    padding: 0.1em;
+}
+
+#regPaaiskinimas {
+    background-color: yellow;
+}
+
+
+
+
